@@ -23,7 +23,6 @@ This is an evolving list
 
 ![PUBG1](https://media.giphy.com/media/xT9IgnOQS8e8uKkflK/giphy.gif)
 
-![PUBG2](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/giphy.gif)
 
 [Link](url) and ![Image](src)
 ```
