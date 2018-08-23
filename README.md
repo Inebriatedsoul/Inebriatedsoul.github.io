@@ -10,12 +10,12 @@ These are the current projects in no particular order.
 This is an evolving list
 
 
-### Learning
+## Learning
 - Programming
 - Investing
 - Business
 
-### Projects
+## Projects
 1. Design Website
 2. Design App
 3. Start Company
