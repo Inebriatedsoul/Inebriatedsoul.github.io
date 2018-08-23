@@ -22,6 +22,7 @@ This is an evolving list
 **Bold** and _Italic_ and `Code` text
 
 ![](https://media.giphy.com/media/xT9IgnOQS8e8uKkflK/giphy.gif)
+
 ![](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/giphy.gif)
 
 [Link](url) and ![Image](src)
