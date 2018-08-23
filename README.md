@@ -23,7 +23,7 @@ This is an evolving list
 
 
 
-![](https://media.giphy.com/media/xT9IgnOQS8e8uKkflK/giphy.gif)
+![PUBG_Funny1](http://Inebriatedsoul.github.io/PUBG_funny.gif)
 
 
 
