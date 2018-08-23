@@ -21,12 +21,7 @@ This is an evolving list
 
 **Bold** and _Italic_ and `Code` text
 
-
-
-![PUBG_Funny1](http://Inebriatedsoul.github.io/PUBG_funny.gif)
-
-
-
+![PUBG_Funny1](https://Inebriatedsoul.github.io/PUBG_funny.gif)
 
 [Link](url) and ![Image](src)
 ```
