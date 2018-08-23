@@ -21,14 +21,13 @@ This is an evolving list
 
 **Bold** and _Italic_ and `Code` text
 
-![PUBG_Funny1](https://Inebriatedsoul.github.io/PUBG_funny.gif)
 
 [Link](url) and ![Image](src)
 ```
 
 ![](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif)
 
-
+![PUBG_Funny1](https://Inebriatedsoul.github.io/PUBG_funny.gif)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
