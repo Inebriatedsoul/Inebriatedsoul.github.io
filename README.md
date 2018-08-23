@@ -16,9 +16,9 @@ This is an evolving list
 - Business
 
 ###Projects
-1. Design Website
+1. Design `MY` Website
 2. Design App
-3. Start Company
+3. Start `MY` Company
 
 
 **The Guitar Collector**
