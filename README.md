@@ -20,13 +20,11 @@ This is an evolving list
 2. Design App
 3. Start `MY` Company
 
+**Bold** and _Italic_ and `Code` text
+```
 
 **The Guitar Collector**
  [![GuitarCollector](https://Inebriatedsoul.github.io/madmax.gif)](https://reverb.com/shop/the-guitar-collector.)
-
-
-**Bold** and _Italic_ and `Code` text
-```
 
 ![](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif)
 
