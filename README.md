@@ -21,7 +21,7 @@ This is an evolving list
 
 **Bold** and _Italic_ and `Code` text
 
-![PUBG1](https://media.giphy.com/media/xT9IgnOQS8e8uKkflK/giphy.gif)
+![](https://media.giphy.com/media/xT9IgnOQS8e8uKkflK/giphy.gif)
 
 
 [Link](url) and ![Image](src)
