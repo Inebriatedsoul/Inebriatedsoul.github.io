@@ -25,7 +25,7 @@ Projects
  [![GuitarCollector](https://Inebriatedsoul.github.io/madmax.gif)](https://reverb.com/shop/the-guitar-collector)
 
 ## PUBG
-![](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif)
+{![PUBG_Teeter](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif)](http://buy.battlegroundsgame.com/)
 
 [![PUBG_Funny1](https://Inebriatedsoul.github.io/PUBG_funny.gif)](https://www.pubg.com/)
 
