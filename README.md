@@ -21,9 +21,8 @@ This is an evolving list
 3. Start Company
 
 **Bold** and _Italic_ and `Code` text
+ [![GuitarCollector](https://Inebriatedsoul.github.io/madmax.gif)](https://reverb.com/shop/the-guitar-collector)
 
-
-[Link](url) and ![Image](src)
 ```
 
 ![](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif)
