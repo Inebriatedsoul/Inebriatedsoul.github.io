@@ -9,15 +9,16 @@ These are the current projects in no particular order.
 ```markdown
 This is an evolving list
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Learning
+- Programming
+- Investing
+- Business
 
-1. Numbered
-2. List
+### Projects
+1. Design Website
+2. Design App
+3. Start Company
 
 **Bold** and _Italic_ and `Code` text
 
