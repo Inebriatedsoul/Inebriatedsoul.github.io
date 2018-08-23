@@ -24,7 +24,7 @@ This is an evolving list
 ```
 
 **The Guitar Collector**
- [![GuitarCollector](https://Inebriatedsoul.github.io/madmax.gif)](https://reverb.com/shop/the-guitar-collector.)
+ [![GuitarCollector](https://Inebriatedsoul.github.io/madmax.gif)](https://reverb.com/shop/the-guitar-collector)
 
 ![](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif)
 
