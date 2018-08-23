@@ -1,6 +1,6 @@
 ## Welcome to Jeremy's Homepage
 
-This site will act as the hub for all my current and future projects. Welcome and please enjoy the ride!!1
+This site will act as the hub for all my current and future projects. Welcome and please enjoy the ride!!
 
 ### Projects
 
@@ -26,7 +26,7 @@ This is an evolving list
 [Link](url) and ![Image](src)
 ```
 
-https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif
+![](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif)
 
 
 
