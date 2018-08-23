@@ -21,8 +21,15 @@ This is an evolving list
 
 **Bold** and _Italic_ and `Code` text
 
+![Image](https://giphy.com/gifs/xT9IgnOQS8e8uKkflK/html5)
+
 [Link](url) and ![Image](src)
 ```
+<iframe src="https://giphy.com/embed/xT9IgnOQS8e8uKkflK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/linarf-games-xT9IgnOQS8e8uKkflK">via GIPHY</a></p>
+
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
