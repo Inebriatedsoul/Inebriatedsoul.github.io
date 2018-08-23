@@ -27,7 +27,7 @@ This is an evolving list
 
 ![](https://media.giphy.com/media/3ohhwAwGwsVdTFOLuw/source.gif)
 
-![PUBG_Funny1](https://Inebriatedsoul.github.io/PUBG_funny.gif)
+[![PUBG_Funny1](https://Inebriatedsoul.github.io/PUBG_funny.gif)](https://www.pubg.com/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
